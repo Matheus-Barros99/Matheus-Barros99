@@ -10,6 +10,7 @@
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br/>
+<p align="center">Minhas redes de contato</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-barros-5484bb15b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheusbarros1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23C62828?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
